@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+*.bak
+*.mypy_cache
+.venv/
+
+# Editor-specific
+.vscode/
+.idea/
+
+# Logs and Data
+*.log
+*.sqlite3
+*.db
+*.csv
+*.json
+*.txt
+*.dat
+*.tmp
+
+# Operating System files
+.DS_Store
+Thumbs.db
