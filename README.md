@@ -20,8 +20,9 @@ This repository is organized to provide a clear overview of my learning and work
 *   `google_course_work/`: Exercises and solutions directly from the Google Cybersecurity Course.
 *   `advanced_practice/`: Additional challenges and learning materials for continuous skill development.
 *   `data_sources/`: Contains fake, simulated data (logs, user lists) used for practice scenarios.
-*   `portfolio_guides/`: In-depth Markdown guides detailing problem statements, methodologies, code, and results for key projects.
+*   `portfolio_guides/`: In-depth Markdown guides detailing problem statements, methodologies, code, and results for key projects. Includes an `images/` subdirectory for embedded screenshots.
 *   `scripts/`: Python, SQL, and shell scripts developed during this journey.
+*   `GLOSSARY.md`: A quick reference for key terms, acronyms, and concepts.
 
 ## Featured Projects (Highlights)
 

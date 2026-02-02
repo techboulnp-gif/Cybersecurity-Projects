@@ -9,8 +9,10 @@ This document tracks the completion of modules, exercises, and projects within y
 - [x] Establish Project Identity (`README.md`, `TODO.md` - this file)
 - [x] Prepare Python Environment (venv)
 - [x] Initialize Version Control (Git & `.gitignore`)
+- [x] Push Initial Setup to Remote (GitHub)
 - [x] Verify Core Tools (Python, SQLite)
 - [x] Create Custom Shortcut (`gemini-soc`)
+- [x] Create and Populate Glossary (`GLOSSARY.md`)
 
 ## Phase 2: Guided Learning - Google Cybersecurity Course
 *(Modules based on '/home/kali/Downloads/linux,Sql, Python.txt')*
